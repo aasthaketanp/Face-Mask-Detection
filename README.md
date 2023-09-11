@@ -22,6 +22,9 @@ Our heartfelt gratitude to every contributor and supporter of this project. Your
 
 *Contact & More*
 **Portfolio**:  https://aasthakpatel.netlify.app/ 
+
 **LinkedIn**: https://www.linkedin.com/in/aasthaketanp/
+
 **GitHub**: https://github.com/aasthaketanp
+
 **Resume**: https://aasthakpatel.netlify.app/images/AasthaPatelResume2024.pdf
