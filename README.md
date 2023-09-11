@@ -16,16 +16,14 @@ Amidst the global health challenges, face masks have become an indispensable pro
 Wearing face masks is still crucial in health setups and crowded areas. While the spread of COVID-19 has reduced, the lessons learned emphasize the need for proactive solutions for potential future health crises. This system aims to encourage mask-wearing by automating detection. Future improvements could see the integration of a Bag-of-features model for better representation. There is also a need to address potential issues, like the model misinterpreting a hand covering the mouth as a mask.
 
 
+## *Contact*
 
-## Contact & More
+To learn more about this project and others:
 
-**Portfolio**:  https://aasthakpatel.netlify.app/ 
-
-**LinkedIn**: https://www.linkedin.com/in/aasthaketanp/
-
-**GitHub**: https://github.com/aasthaketanp
-
-**Resume**: https://aasthakpatel.netlify.app/images/AasthaPatelResume2024.pdf
+- [*Portfolio*](https://aasthakpatel.netlify.app/)
+- [*LinkedIn*](https://www.linkedin.com/in/aasthaketanp/)
+- [*GitHub*](https://github.com/aasthaketanp)
+- [*My Resume*](https://aasthakpatel.netlify.app/images/AasthaPatelResume2024.pdf)
 
 ---
 *Acknowledgments:*  
